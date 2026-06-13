@@ -8,7 +8,7 @@
 
 ### Software Engineer | Full Stack Developer | Building Real-World Systems
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://brianwa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://brianwa.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wamalwabrian337@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-brian-3a4707363)
 
@@ -125,7 +125,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082407910620)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254721611767)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wamalwabrian337@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://brianwa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://brianwa.vercel.app)
 
 </div>
 
@@ -140,5 +140,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=bBrisoft-ke&label=Profile+Views&color=00f5a0&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bDevbrian-ke&label=Profile+Views&color=00f5a0&style=flat" alt="Profile views" />
 </div>
