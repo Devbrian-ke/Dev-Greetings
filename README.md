@@ -7,6 +7,7 @@
 # Hey, what'up👋, I'm Dev Brian
 
 ### Software Engineer | Full Stack Developer | Building Real-World Systems
+Nairobi, kenya
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://brianwa.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wamalwabrian337@gmail.com)
