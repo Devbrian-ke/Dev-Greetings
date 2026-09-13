@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GREETING_START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=99999&color=00F5A0&center=true&vCenter=true&width=800&lines=🌙+Good+Evening%2C+World!+—+Late+night+commits+hit+different+🌙" alt="Greeting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=99999&color=00F5A0&center=true&vCenter=true&width=800&lines=🌃+Good+Night%2C+World!+—+Even+devs+need+sleep+😴" alt="Greeting" />
 <!-- GREETING_END -->
 
 # Hey, what'up👋, I'm Dev Brian
