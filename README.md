@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GREETING_START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=99999&color=00F5A0&center=true&vCenter=true&width=800&lines=🌅+Good+Morning%2C+World!+—+Coffee+%E2%98%95+%2B+Code+%3D+Productivity" alt="Greeting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=99999&color=00F5A0&center=true&vCenter=true&width=800&lines=☀️+Good+Afternoon%2C+World!+—+Deep+work+mode+activated+💻" alt="Greeting" />
 <!-- GREETING_END -->
 
 # Hey, what'up👋, I'm Dev Brian
